@@ -1,1 +1,2 @@
-# Ipl_Dataset_WinningPrediction
+# IPL Data Analysis (2008–2024) 
+# Insights, Trends, and Predictive Modelling
