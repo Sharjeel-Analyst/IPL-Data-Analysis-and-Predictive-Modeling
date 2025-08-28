@@ -1,8 +1,8 @@
-#IPL Data Analysis & Predictive Modeling 🏏
+## IPL Data Analysis & Predictive Modeling
 
 This repository contains a Jupyter Notebook (Final_Code_Aug28.ipynb) that explores IPL (Indian Premier League) ball-by-ball match data and applies machine learning models to extract insights and make predictions.
 
-Project Overview
+# Project Overview
 
 Perform exploratory data analysis (EDA) on IPL datasets.
 
@@ -18,18 +18,17 @@ XGBoost Classifier
 
 Measure performance with accuracy, precision, recall, F1-score, and confusion matrices.
 
-"Dataset"
+# Datase"
 
 The project uses IPL datasets, primarily:
 
-deliveries.csv → Ball-by-ball information of IPL matches.
-
-(Optional) Other IPL-related datasets if available.
+deliveries.csv
+Matches.csv 
 
 You can download the dataset(s) from Kaggle – IPL Dataset
- or provide your own CSV files in the same directory.
 
-Installation & Requirements
+
+# Installation & Requirements
 
 Clone the repository and install dependencies:
 
@@ -68,7 +67,7 @@ Visualize match & player statistics.
 
 Train and evaluate ML models.
 
- Results
+# Results
 
 Feature importance from Random Forest and XGBoost.
 
@@ -76,13 +75,10 @@ Performance comparison across models.
 
 Insights into IPL matches from EDA.
 
- Future Work
+# Future Work
 
-Extend dataset to include team-level stats.
-
-Deploy a prediction web app using Streamlit or Flask.
-
-Hyperparameter optimization with GridSearchCV/RandomizedSearchCV.
+To add more features like player injury and Venue
+Also should make good dashboards to broadcast
 
 📜 License
 
