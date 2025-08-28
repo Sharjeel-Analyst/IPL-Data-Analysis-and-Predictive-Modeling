@@ -79,7 +79,7 @@ Insights into IPL matches from EDA.
 
 To add more features like player injury and Venue
 Also should make good dashboards to broadcast
-
-📜 License
+ 
+License
 
 This project is licensed under the MIT License.
