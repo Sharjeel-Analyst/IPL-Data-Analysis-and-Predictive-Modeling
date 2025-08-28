@@ -10,7 +10,7 @@ Visualize key insights using Seaborn and Matplotlib.
 
 Apply feature engineering and data preprocessing.
 
-Train and evaluate predictive models including
+Train and evaluate predictive models, including
 
 Random Forest Classifier
 
@@ -23,8 +23,10 @@ Measure performance with accuracy, precision, recall, F1-score, and confusion ma
 The project uses IPL datasets, primarily:
 
 deliveries.csv
+or
 Matches.csv 
-
+And also, I uploaded the dataset .rar file you can download from the repository.
+Or
 You can download the dataset(s) from Kaggle – IPL Dataset
 https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/
 
